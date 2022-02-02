@@ -1,1 +1,3 @@
-# phase-one-project
+# Phase One Project
+
+### Objectives
