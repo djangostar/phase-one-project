@@ -1,0 +1,95 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Reservoir Dogs",
+      "release": "1992",
+      "ranking": "7",
+      "poster": "https://i.imgur.com/i7MmIsd.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Pulp Fiction",
+      "release": "1994",
+      "ranking": "4",
+      "poster": "https://i.imgur.com/MdRi1Eo.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Jackie Brown",
+      "release": "1997",
+      "ranking": "6",
+      "poster": "https://i.imgur.com/BoUhQmV.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Kill Bill Vol. 1",
+      "release": "2003",
+      "ranking": "8",
+      "poster": "https://i.imgur.com/P4NN7cB.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Kill Bill Vol. 2",
+      "release": "2004",
+      "ranking": "3",
+      "poster": "https://i.imgur.com/w0LagnR.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Death Proof",
+      "release": "2007",
+      "ranking": "9",
+      "poster": "https://i.imgur.com/ObrSpKI.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Inglourious Basterds",
+      "release": "2009",
+      "ranking": "1",
+      "poster": "https://i.imgur.com/TOkhnXo.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Django Unchained",
+      "release": "2012",
+      "ranking": "5",
+      "poster": "https://i.imgur.com/Q25NUDI.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "The Hateful Eight",
+      "release": "2015",
+      "ranking": "2",
+      "poster": "https://i.imgur.com/yvQtVak.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Once Upon A Time In HollyWood",
+      "release": "2019",
+      "ranking": "10",
+      "poster": "https://i.imgur.com/mgNj5vW.jpeg"
+    },
+    {
+      "name": "",
+      "release": "",
+      "ranking": "",
+      "poster": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "release": "",
+      "ranking": "",
+      "poster": "",
+      "id": 12
+    },
+    {
+      "name": "Juan Sergio Khoshdel",
+      "release": "",
+      "ranking": "",
+      "poster": "",
+      "id": 13
+    }
+  ]
+}
